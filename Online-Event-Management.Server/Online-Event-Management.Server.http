@@ -1,0 +1,6 @@
+@Online_Event_Management.Server_HostAddress = http://localhost:5015
+
+GET {{Online_Event_Management.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
